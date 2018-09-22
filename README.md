@@ -30,6 +30,10 @@ What makes this version unique is:
 
 [oauth2_proxy][appurl] is a reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group. Although the project is now [abandoned](https://github.com/bitly/oauth2_proxy/issues/628#issuecomment-417121636), it remains a useful and consistent way to provide secured public access to an application. 
 
+# How do I use this?
+
+There are details re how (and why) to use oauth2_proxy in the [Geek's Cookbook](https://geek-cookbook.funkypenguin.co.nz/reference/oauth_proxy/).
+
 # Changelog
 
 * v2.2-r1 : First release based off scratch and with [self-signed-SSL patch](https://github.com/bitly/oauth2_proxy/pull/651/commits/3899576c07a51cf94307d679c76aafd72dcba4f2)
