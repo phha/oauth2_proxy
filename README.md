@@ -24,9 +24,10 @@ Got more details at:
 
 # Contents
 
-1. [What is this?](#What is funkypenguin/oauth2_proxy ?)
-2. [Why should I use it?](#Why should I use this?)
-3. [How do I use it?](#rubish)
+1. [What is funkypenguin/oauth2_proxy ?](#What-is)
+2. [Why should I use it?](#why-should-i-use-it)
+3. [How do I use it?](#how-do-i-use-it)
+4. [CHANGELOG](#changelog)
 
 # What is funkypenguin/oauth2_proxy ?
 
@@ -49,6 +50,6 @@ There are details re how (and why) to use oauth2_proxy in the [Geek's Cookbook](
 
 Ideally, in a swarm, or a docker-compose.yml file (see above).
 
-# Changelog
+# CHANGELOG
 
 * v2.2-r1 : First release based off scratch and with [self-signed-SSL patch](https://github.com/bitly/oauth2_proxy/pull/651/commits/3899576c07a51cf94307d679c76aafd72dcba4f2)
