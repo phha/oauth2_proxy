@@ -22,7 +22,7 @@ Got more details at:
 
 ---
 
-# What is this?
+# What is **funkypenguin/oauth2_proxy** ?
 
 [![](https://images.microbadger.com/badges/version/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/funkypenguin/oauth2_proxy "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/funkypenguin/oauth2_proxy "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/funkypenguin/oauth2_proxy.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/funkypenguin/oauth2_proxy.svg)][hub][![](https://images.microbadger.com/badges/commit/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/oauth2_proxy "Get your own commit badge on microbadger.com")
 
