@@ -8,6 +8,13 @@
 
 [![geek-cookbook](https://raw.githubusercontent.com/funkypenguin/www.funkypenguin.co.nz/master/images/apple-icon-60x60.png)][cookbookurl]
 
+# Contents
+
+1. [What is funkypenguin/oauth2_proxy?](##what-is-funkypenguinoauth2_proxy)
+2. [Why should I use this?](#why-should-i-use-this)
+3. [How do I use it?](#how-do-i-use-this)
+4. [CHANGELOG](#changelog)
+
 ---
 
 This container is maintained by [Funky Penguin's Geek Cookbook][cookbookurl], a collection of "recipes" to run popular applications
@@ -21,13 +28,6 @@ Got more details at:
 <br/>![Read my blog!](https://img.shields.io/badge/read-blog-brightgreen.svg)] [Blog][blogurl]
 
 ---
-
-# Contents
-
-1. [What is funkypenguin/oauth2_proxy ?](#What-is)
-2. [Why should I use it?](#why-should-i-use-it)
-3. [How do I use it?](#how-do-i-use-it)
-4. [CHANGELOG](#changelog)
 
 # What is funkypenguin/oauth2_proxy ?
 
