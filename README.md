@@ -1,4 +1,4 @@
-[cookbookurl]: https://geek-cookbook.funkypenguin.co.nz
+Â[cookbookurl]: https://geek-cookbook.funkypenguin.co.nz
 [kitchenurl]: https://discourse.kitchen.funkypenguin.co.nz
 [discordurl]: http://chat.funkypenguin.co.nz
 [patreonurl]: https://patreon.com/funkypenguin
@@ -8,15 +8,19 @@
 
 [![geek-cookbook](https://raw.githubusercontent.com/funkypenguin/www.funkypenguin.co.nz/master/images/apple-icon-60x60.png)][cookbookurl]
 
+---
+
 This container is maintained by [Funky Penguin's Geek Cookbook][cookbookurl], a collection of "recipes" to run popular applications
 on Docker Swarm or Kubernetes, in a cheeky, geek format.
 
 Got more details at:
-* [Funky Penguin's Geek Cookbook][cookbookurl]
-* [Friendly Discord Chat][discordurl]
-* [Forums][kitchenurl]
-* [Patreon][patreonurl]
-* [Blog][blogurl]
+* ![Discourse topics](https://img.shields.io/discourse/https/discourse.geek-kitchen.funkypenguin.co.nz/topics.svg)[Forums][kitchenurl]
+* ![alt text](https://img.shields.io/discord/396055506072109067.svg) [Friendly Discord Chat][discordurl]
+* ![alt text](https://img.shields.io/badge/recipies-35+-brightgreen.svg) [Funky Penguin's Geek Cookbook][cookbookurl]
+* ![Thank you](https://img.shields.io/badge/thank-you-brightgreen.svg)[Patreon][patreonurl]
+* [![Read my blog!](https://img.shields.io/badge/read-blog-brightgreen.svg)]([blogurl]) [Blog][blogurl]
+
+---
 
 # What is this?
 
@@ -24,7 +28,7 @@ Got more details at:
 
 funkypenguin/oauth2_proxy is _yet another_ build of Bitly's ([now-abandoned](https://github.com/bitly/oauth2_proxy/issues/628#issuecomment-417121636)) oauth2_proxy application.
 
-[oauth2_proxy][appurl] is a reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group. Although the project is now [abandoned](https://github.com/bitly/oauth2_proxy/issues/628#issuecomment-417121636), it remains a useful and consistent way to provide secured public access to an application. 
+[oauth2_proxy][appurl] is a reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group. Although the project is now [abandoned](https://github.com/bitly/oauth2_proxy/issues/628#issuecomment-417121636), it remains a useful and consistent way to provide secured public access to an application.
 
 What makes this version unique is:
 
