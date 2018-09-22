@@ -9,7 +9,9 @@ ARG BUILD_DATE
 ARG VCS_REF
 
 # BRANCH refers to the branch from the upstream we'll clone
-ARG BRANCH=v2.2
+# We use master instead of v2.2 since the self-signed-ssl patch is against master
+#ARG BRANCH=v2.2
+ARG BRANCH=master
 ENV BRANCH=${BRANCH}
 
 # Install SSL ca certificates (because we have to build the Go app with SSL support)
