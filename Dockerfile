@@ -1,12 +1,22 @@
 # Built following https://medium.com/@chemidy/create-the-smallest-and-secured-golang-docker-image-based-on-scratch-4752223b7324
 
+ARG BUILD_DATE
+ARG VCS_REF
+ARG BRANCH=v2.2
+ENV BRANCH=${BRANCH}
+
+LABEL org.label-schema.build-date=$BUILD_DATE \
+      org.label-schema.vcs-url="https://github.com/funkypenguin/oauth2_proxy.git" \
+      org.label-schema.vcs-ref=$VCS_REF \
+      org.label-schema.schema-version="2.2-r1"
+
 # STEP 1 build executable binary
 FROM golang:alpine as builder
 # Install SSL ca certificates
 RUN apk update && apk add git && apk add ca-certificates
 # Create appuser
 RUN adduser -D -g '' appuser
-RUN git clone https://github.com/bitly/oauth2_proxy.git $GOPATH/src/mypackage/myapp/ 
+RUN git clone --branch $BRANCH https://github.com/bitly/oauth2_proxy.git $GOPATH/src/mypackage/myapp/ 
 WORKDIR $GOPATH/src/mypackage/myapp/
 
 # Apply the self-signed cert patch
