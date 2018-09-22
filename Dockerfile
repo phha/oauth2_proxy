@@ -25,7 +25,7 @@ RUN git clone --branch $BRANCH https://github.com/bitly/oauth2_proxy.git $GOPATH
 WORKDIR $GOPATH/src/mypackage/myapp/
 
 # Apply the self-signed cert patch
-RUN wget https://github.com/vaLski/oauth2_proxy/commit/3899576c07a51cf94307d679c76aafd72dcba4f2.patch
+RUN wget https://github.com/bitly/oauth2_proxy/pull/651/commits/3899576c07a51cf94307d679c76aafd72dcba4f2.patch
 RUN patch -p1 < 3899576c07a51cf94307d679c76aafd72dcba4f2.patch
 
 #get dependencies
