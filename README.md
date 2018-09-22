@@ -21,11 +21,11 @@ This container is maintained by [Funky Penguin's Geek Cookbook][cookbookurl], a 
 on Docker Swarm or Kubernetes, in a cheeky, geek format.
 
 Got more details at:
-<br/>![Discourse topics](https://img.shields.io/discourse/https/discourse.geek-kitchen.funkypenguin.co.nz/topics.svg) [Forums][kitchenurl]
-<br/>![alt text](https://img.shields.io/discord/396055506072109067.svg) [Friendly Discord Chat][discordurl]
-<br/>![alt text](https://img.shields.io/badge/recipies-35+-brightgreen.svg) [Funky Penguin's Geek Cookbook][cookbookurl]
-<br/>![Thank you](https://img.shields.io/badge/thank-you-brightgreen.svg) [Patreon][patreonurl]
-<br/>![Read my blog!](https://img.shields.io/badge/read-blog-brightgreen.svg) [Blog][blogurl]
+* ![Discourse with us!](https://img.shields.io/discourse/https/discourse.geek-kitchen.funkypenguin.co.nz/topics.svg) [Forums][kitchenurl]
+* ![Chat with us!](https://img.shields.io/discord/396055506072109067.svg) [Friendly Discord Chat][discordurl]
+* ![Geek out with us!](https://img.shields.io/badge/recipies-35+-brightgreen.svg) [Funky Penguin's Geek Cookbook][cookbookurl]
+* ![Thank YOU](https://img.shields.io/badge/thank-you-brightgreen.svg) [Patreon][patreonurl]
+* ![Read blog!](https://img.shields.io/badge/read-blog-brightgreen.svg) [Blog][blogurl]
 
 ---
 
