@@ -2,6 +2,7 @@
 [kitchenurl]: https://discourse.kitchen.funkypenguin.co.nz
 [discordurl]: http://chat.funkypenguin.co.nz
 [patreonurl]: https://patreon.com/funkypenguin
+[badgerurl]: https://images.microbadger.com/badges/commit/funkypenguin/oauth2_proxy.svg
 [appurl]: https://github.com/bitly/oauth2_proxy
 [hub]: https://hub.docker.com/r/funkypenguin/oauth2_proxy/
 
@@ -18,7 +19,7 @@ Got more details at:
 
 # What is this?
 
-[![](https://images.microbadger.com/badges/version/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/funkypenguin/oauth2_proxy "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/funkypenguin/oauth2_proxy "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/funkypenguin/oauth2_proxy.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/funkypenguin/oauth2_proxy.svg)][hub]
+[![](https://images.microbadger.com/badges/version/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/funkypenguin/oauth2_proxy "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/funkypenguin/oauth2_proxy "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/funkypenguin/oauth2_proxy.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/funkypenguin/oauth2_proxy.svg)][hub][![](https://images.microbadger.com/badges/commit/funkypenguin/oauth2_proxy.svg)](https://microbadger.com/images/oauth2_proxy "Get your own commit badge on microbadger.com")
 
 funkypenguin/oauth2_proxy is _yet another_ build of Bitly's (now-abandoned) oauth2_proxy application.
 
