@@ -1,4 +1,4 @@
-Â[cookbookurl]: https://geek-cookbook.funkypenguin.co.nz
+[cookbookurl]: https://geek-cookbook.funkypenguin.co.nz
 [kitchenurl]: https://discourse.kitchen.funkypenguin.co.nz
 [discordurl]: http://chat.funkypenguin.co.nz
 [patreonurl]: https://patreon.com/funkypenguin
@@ -14,11 +14,11 @@ This container is maintained by [Funky Penguin's Geek Cookbook][cookbookurl], a 
 on Docker Swarm or Kubernetes, in a cheeky, geek format.
 
 Got more details at:
-* ![Discourse topics](https://img.shields.io/discourse/https/discourse.geek-kitchen.funkypenguin.co.nz/topics.svg)[Forums][kitchenurl]
-* ![alt text](https://img.shields.io/discord/396055506072109067.svg) [Friendly Discord Chat][discordurl]
-* ![alt text](https://img.shields.io/badge/recipies-35+-brightgreen.svg) [Funky Penguin's Geek Cookbook][cookbookurl]
-* ![Thank you](https://img.shields.io/badge/thank-you-brightgreen.svg)[Patreon][patreonurl]
-* [![Read my blog!](https://img.shields.io/badge/read-blog-brightgreen.svg)]([blogurl]) [Blog][blogurl]
+<br/>![Discourse topics](https://img.shields.io/discourse/https/discourse.geek-kitchen.funkypenguin.co.nz/topics.svg)[Forums][kitchenurl]
+<br/>![alt text](https://img.shields.io/discord/396055506072109067.svg) [Friendly Discord Chat][discordurl]
+<br/>![alt text](https://img.shields.io/badge/recipies-35+-brightgreen.svg) [Funky Penguin's Geek Cookbook][cookbookurl]
+<br/>![Thank you](https://img.shields.io/badge/thank-you-brightgreen.svg)[Patreon][patreonurl]
+<br/>![Read my blog!](https://img.shields.io/badge/read-blog-brightgreen.svg)] [Blog][blogurl]
 
 ---
 
