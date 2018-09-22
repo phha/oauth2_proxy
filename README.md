@@ -5,7 +5,7 @@
 [appurl]: https://github.com/bitly/oauth2_proxy
 [hub]: https://hub.docker.com/r/funkypenguin/oauth2_proxy/
 
-[![geek-cookbook](https://www.funkypenguin.co.nz/images/apple-icon-60x60.png)][cookbookurl]
+[![geek-cookbook](http://www.funkypenguin.co.nz/images/apple-icon-60x60.png)][cookbookurl]
 
 This container is contributed by Funky Penguin's Geek Cookbook, a collection of "recipes" to run popular applications
 on Docker Swarm or Kubernetes, in a cheeky, geek format.
@@ -14,6 +14,7 @@ Got more details at:
 * [Funky Penguin's Geek Cookbook][cookbookurl]
 * [Friendly Discord Chat][discordurl]
 * [Forums][kitchenurl]
+* [Patreon][patreonurl]
 
 # What is this?
 
