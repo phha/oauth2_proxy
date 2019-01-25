@@ -28,6 +28,12 @@ WORKDIR $GOPATH/src/mypackage/myapp/
 RUN wget https://github.com/bitly/oauth2_proxy/pull/651/commits/3899576c07a51cf94307d679c76aafd72dcba4f2.patch
 RUN patch -p1 < 3899576c07a51cf94307d679c76aafd72dcba4f2.patch
 
+# Apply the websocket patch
+RUN wget https://github.com/bitly/oauth2_proxy/pull/201/commits/0c6ed788afa17e05958daeaee4d261d1058a5345.patch
+RUN patch -p1 <0c6ed788afa17e05958daeaee4d261d1058a5345.patch
+RUN wget https://github.com/bitly/oauth2_proxy/pull/201/commits/d67c0f62d9ebc856b198ba86aa02657660606ec6.patch
+RUN patch -p1 <d67c0f62d9ebc856b198ba86aa02657660606ec6.patch
+
 #get dependencies
 RUN go get -d -v
 
